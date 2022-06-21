@@ -8,7 +8,7 @@ Code Review Instructions &amp; Submission Repo
 Code-Review-DMC. 
 3. Please try to keep your code as clean and organized as possible.
 4. Make sure to highlight any specific sections of the code and add a README.md file or comments to highlight/help other review the code. Also, if the code or project requires any type of setup please add the instructions in the README.md file. 
-5. Share the URL of the repository in the DMC channel 
+5. Share the URL of the repository in the DMC server https://discord.gg/gZq2538tCt at the channel #code-review 
 6. Please check back soon for updates & new instructions for any changes! 
 
 
