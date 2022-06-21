@@ -1,5 +1,5 @@
 # Code-Review-DMC
-#Code Review Instructions &amp; Submission Repo
+Code Review Instructions &amp; Submission Repo
 
 
 
@@ -13,7 +13,7 @@ Code-Review-DMC.
 
 
 
-#Please do not share any sensitive material, and constructive criticism only. 
+Please do not share any sensitive material, and constructive criticism only. 
 
 
 
